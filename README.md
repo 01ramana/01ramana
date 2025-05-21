@@ -66,7 +66,7 @@ I am always eager to learn new technologies and build efficient, scalable applic
 
 💼 **LinkedIn:** [www.linkedin.com/in/ramana-reddy-nvvrr0976](#)  
 📧 **Email:** 01ramanareddy@gmail.com  
-📌 **Portfolio:** (Coming Soon)  
+📌 **Portfolio:** [https://01ramanareddy.netlify.app/](https://01ramanareddy.netlify.app/)
 🚀 **GitHub:** [github.com/01ramana](https://github.com/01ramana)  
 
 ---
